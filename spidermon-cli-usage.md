@@ -1,4 +1,4 @@
-This gist is my way to think ahead what the usage of the CLI for Spidermon should be
+This snippet is my way to think ahead what the usage of the CLI for Spidermon should be
 
 With this gist I intend to be able to detect requirements and to have a good planning for the CLI implementation.
 
